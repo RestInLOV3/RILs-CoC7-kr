@@ -1,9 +1,7 @@
-Hooks.on('init', () => {
-  if (typeof Babele !== 'undefined') {
-    Babele.get().register({
-      module: 'coc7-ko-translation',
-      lang: 'ko',
-      dir: 'compendiums'
-    });
-  }
+Hooks.once('babele.init', (babele) => {
+  babele.register({
+    module: 'RILs-CoC-kr',
+    lang: 'ko',
+    dir: 'compendium'
+  });
 });

@@ -2,10 +2,10 @@
   "language": "ko",
   "entries": [
     {
-      "id": "coc7.skills",
-      "type": "Compendiums",
+      "id": "CoC7.skills",
+      "type": "Compendium",
       "label": "Skills",
-      "path": "compendium/coc7.skills.json"
+      "path": "compendium/CoC7.skills.json"
     }
   ]
 }
