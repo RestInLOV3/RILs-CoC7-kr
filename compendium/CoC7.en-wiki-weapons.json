@@ -1,0 +1,156 @@
+{
+  "id": "CoC7.en-wiki-weapons",
+  "label": "무기",
+  "entries": {
+    "2r5xD2GY15lSTtEm": {
+        "name":"근거리 무기"
+    },
+    "3zZuq7B7eNxU2QMC": {
+        "name":"권총"
+    },
+    "OJkZsHH3vZYEUeQC": {
+        "name":"라이플"
+    },
+    "w2vkKXFHcaQVeB7H": {
+        "name":"산탄총"
+    },
+    "JAeTufherjBnBPgA": {
+        "name":"기관단총"
+    },
+    "CMWcRDEeZED0VpyQ": {
+        "name":"기관총"
+    },
+    "H73Coa7PCtDMaDe0": {
+        "name": "활"
+      },
+      "uGp37xda7CqH6FHw": {
+        "name": "놋쇠 너클"
+      },
+      "HCogxk4p3m34d5tX": {
+        "name": "채찍"
+      },
+      "jJtIutyOsQgrBR8n": {
+        "name": "횃불"
+      },
+      "l0ghZEcNxwL1IZN1": {
+        "name": "블랙잭"
+      },
+      "roVrmMOQJWIXvvQQ": {
+        "name": "몽둥이, 대형"
+      },
+      "ac7oe21QrwkqONdE": {
+        "name": "몽둥이, 소형"
+      },
+      "kBCDAZyP9Rw83dtd": {
+        "name": "석궁"
+      },
+      "RFLMGFQK6hSB6SRp": {
+        "name": "가롯테"
+      },
+      "Ku5UKllxMqd4DMy7": {
+        "name": "손도끼/손낫"
+      },
+      "mR1f52hFVVGHLzz4": {
+        "name": "단도, 대형"
+      },
+      "3Maj7S9ZzeSguAGH": {
+        "name": "단도, 중형"
+      },
+      "qbGYOiwBK1PKgjvx": {
+        "name": "단도, 소형"
+      },
+      "PNBWybSOsGMwwMHq": {
+        "name": "쌍절곤"
+      },
+      "PwPQuUqXScKlKmAa": {
+        "name": "돌팔매질"
+      },
+      "5X6ISltKyWOHazrk": {
+        "name": "슈리켄"
+      },
+      "kifHHipaIoHdLMDf": {
+        "name": "창, 투척"
+      },
+      "xQ0Lges8i5lh9AJc": {
+        "name": "창"
+      },
+      "TK5Eb8t4n4rivgjK": {
+        "name": ".22 쇼트 오토매틱"
+      },
+      "11yz18nmTOzG3GIv": {
+        "name": ".25 데린저 (1B)"
+      },
+      "ihFRKEuq3Pr7uxHe": {
+        "name": ".32 또는 7.65mm 리볼버"
+      },
+      "YkpjUL8d0wYr8I1b": {
+        "name": ".32 또는 7.65mm 오토매틱"
+      },
+      "REDf9dXnCiTfOh7V": {
+        "name": "모델 P08 루거"
+      },
+      "KOSENMmQDKoLvLMQ": {
+        "name": ".45 리볼버"
+      },
+      "8vvmwSX7k323g1j7": {
+        "name": ".45 오토매틱"
+      },
+      "nTbV1VEOsDt92eNF": {
+        "name": ".22 볼트액션 라이플"
+      },
+      "mKNcdRevhJCCImD6": {
+        "name": ".30 레버 액션 카빈"
+      },
+      "7vYij0yBK1QqZali": {
+        "name": ".45 마티니-헨리 라이플"
+      },
+      "LP39ttIZpu3Vn6kK": {
+        "name": "모란 대령의 공기총"
+      },
+      "cGGf4mImKm1IP1T7": {
+        "name": ".303 리-엔필드"
+      },
+      "66ZkoYGNKsK6FWH0": {
+        "name": ".30-06 볼트액션 라이플"
+      },
+      "WQS69NjyFev41R8W": {
+        "name": "코끼리 사냥총 (2B)"
+      },
+      "ZULnJ6yoPdOrrR7k": {
+        "name": "20 게이지 산탄총 (2B)"
+      },
+      "U5FaZQnU0ssrFeCq": {
+        "name": "16 게이지 산탄총 (2B)"
+      },
+      "G9mbFeOKxJqjfHpZ": {
+        "name": "12 게이지 산탄총 (2B)"
+      },
+      "7SWnX8MTotHgnjiE": {
+        "name": "12 게이지 산탄총 (반자동)"
+      },
+      "mEuviJ4HvwIVoa6F": {
+        "name": "12 게이지 산탄총 (2B, 총열 절단)"
+      },
+      "crngMuwOqqFSHwGO": {
+        "name": "베르크만 MP181/MP2811"
+      },
+      "IYpysvmivwOZrAzT": {
+        "name": "톰슨"
+      },
+      "CRCZjmyk3l8bIgEi": {
+        "name": "브라우닝 자동 라이플 M1918"
+      },
+      "xni3bIirzUpZrwtY": {
+        "name": ".30 브라우닝 M1917A1"
+      },
+      "OnJQI1mIZWpe4nGp": {
+        "name": "브렌 경기관총"
+      },
+      "9iE7KyqlM5ltvz5n": {
+        "name": "마크 I 루이스 경기관총"
+      },
+      "04Hx5FmxZurcvlrJ": {
+        "name": "비커스 .303 기관총"
+      }
+  }
+}
