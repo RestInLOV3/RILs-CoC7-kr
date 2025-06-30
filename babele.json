@@ -3,7 +3,7 @@
   "entries": [
     {
       "id": "coc7.skills",
-      "type": "Compendium",
+      "type": "Compendiums",
       "label": "Skills",
       "path": "compendium/coc7.skills.json"
     }
