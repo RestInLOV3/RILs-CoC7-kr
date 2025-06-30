@@ -4,7 +4,7 @@
   "entries": {
     "UOuN0gESXPp2HXwH": {
       "name": "회계",
-      "system": {
+      "system": { 
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
         }
@@ -67,7 +67,7 @@
       }
     },
     "zcvnv8qY4GrVwwTL": {
-      "name": "Art/Craft (Forgery)",
+      "name": "예술/공예 (위조)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -75,7 +75,7 @@
       }
     },
     "WLYZNASZ2YP8zN3g": {
-      "name": "Art/Craft (Photography)",
+      "name": "예술/공예 (사진)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -83,7 +83,7 @@
       }
     },
     "JgtxiN3KzooOWIQV": {
-      "name": "Charm",
+      "name": "매혹",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -91,15 +91,15 @@
       }
     },
     "I80gmmo830LuOBKl": {
-      "name": "Civics",
+      "name": "일반사회",
       "system": {
         "description": {
-          "value": "<p>See the Cthulhu Invictus</p>"
+          "value": "<p>크툴루 인빅터스 참조</p>"
         }
       }
     },
     "oh5eFj00Wohnx1My": {
-      "name": "Climb",
+      "name": "오르기",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -107,7 +107,7 @@
       }
     },
     "VZSv9eodMQ4ZPcrO": {
-      "name": "Computer Use",
+      "name": "컴퓨터 사용",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -115,7 +115,7 @@
       }
     },
     "vYrJ5h9cIQBzvw8E": {
-      "name": "Credit Rating",
+      "name": "재력",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -123,7 +123,7 @@
       }
     },
     "WJky66ezt2ef5ksH": {
-      "name": "Cthulhu Mythos",
+      "name": "크툴루 신화",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -131,7 +131,7 @@
       }
     },
     "bJt90h73GqdP7ti6": {
-      "name": "Demolitions",
+      "name": "폭파",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -139,7 +139,7 @@
       }
     },
     "gzNPM9gbx0EZffBV": {
-      "name": "Disguise",
+      "name": "변장",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -147,7 +147,7 @@
       }
     },
     "4lN6yD6zwbjX6BFp": {
-      "name": "Diving",
+      "name": "잠수",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -155,7 +155,7 @@
       }
     },
     "wK8XxNj9QwXlGFEb": {
-      "name": "Dodge",
+      "name": "회피",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -163,7 +163,7 @@
       }
     },
     "Og2OWQH93aSDWAMZ": {
-      "name": "Drive Auto",
+      "name": "자동차 운전",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -171,7 +171,7 @@
       }
     },
     "Sxviv60td6kbS4kp": {
-      "name": "Drive Carriage",
+      "name": "마차 운전",
       "system": {
         "description": {
           "value": "<p>See the Cthulhu by Gaslight</p>"
@@ -179,15 +179,15 @@
       }
     },
     "rAK5soSX1n3jXj2A": {
-      "name": "Drive Horse / Oxen",
+      "name": "말/소 운전",
       "system": {
         "description": {
-          "value": "<p>See the Cthulhu Invictus</p>"
+          "value": "<p>크툴루 인빅터스 참조</p>"
         }
       }
     },
     "sqenne0VZoF54W5k": {
-      "name": "Drive Wagon / Coach",
+      "name": "수레/버스 운전",
       "system": {
         "description": {
           "value": "<p>See the Down Darker Trails Rulebook</p>"
@@ -195,7 +195,7 @@
       }
     },
     "NBkq8oCGM1FjmsyF": {
-      "name": "Electrical Repair",
+      "name": "전기 수리",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -203,7 +203,7 @@
       }
     },
     "oEfvPMTx0cgyPlgV": {
-      "name": "Electronics",
+      "name": "전자기기",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -211,15 +211,15 @@
       }
     },
     "t7uiYybrk8dHFdjp": {
-      "name": "Empire",
+      "name": "제국",
       "system": {
         "description": {
-          "value": "<p>See the Cthulhu Invictus</p>"
+          "value": "<p>크툴루 인빅터스 참조</p>"
         }
       }
     },
     "ld78TITwKNFPpanQ": {
-      "name": "Fast Talk",
+      "name": "말재주",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -227,7 +227,7 @@
       }
     },
     "4y7D44TpkHVKxA7s": {
-      "name": "Fighting (Any)",
+      "name": "근접전 (Any)",
       "system": {
         "description": {
           "value": "<p>Use in occupations / archetypes to prompt to select one Fighting skill</p>"
@@ -235,7 +235,7 @@
       }
     },
     "T8fSLCwSD8C0iK8t": {
-      "name": "Fighting (Axe)",
+      "name": "근접전 (도끼)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -243,7 +243,7 @@
       }
     },
     "vS8bsPWFlwgOecoB": {
-      "name": "Fighting (Brawl)",
+      "name": "근접전 (격투)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -251,7 +251,7 @@
       }
     },
     "Ed8OShyl7D834Ihk": {
-      "name": "Fighting (Chainsaw)",
+      "name": "근접전 (동력톱)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -259,7 +259,7 @@
       }
     },
     "OcnZzOYWaP4VsjXS": {
-      "name": "Fighting (Flail)",
+      "name": "근접전 (도리깨)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -267,7 +267,7 @@
       }
     },
     "TPOu48DT4QIrqE68": {
-      "name": "Fighting (Garrote)",
+      "name": "근접전 (가롯테)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -275,7 +275,7 @@
       }
     },
     "IttOdCAGTeE6VU3F": {
-      "name": "Fighting (Spear)",
+      "name": "근접전 (창)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -283,7 +283,7 @@
       }
     },
     "hRPbMl2N0t6aBlyc": {
-      "name": "Fighting (Sword)",
+      "name": "근접전 (도검)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -291,7 +291,7 @@
       }
     },
     "sWt5Q3ZXd6NlwhXU": {
-      "name": "Fighting (Throw)",
+      "name": "근접전 (투척)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -299,7 +299,7 @@
       }
     },
     "Pb3QI7x9xJVeXi8a": {
-      "name": "Fighting (Whip)",
+      "name": "근접전 (채찍)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -307,7 +307,7 @@
       }
     },
     "YPiD2ubZensxjKGU": {
-      "name": "Firearms (Any)",
+      "name": "사격 (Any)",
       "system": {
         "description": {
           "value": "<p>Use in occupations / archetypes to prompt to select one Firearms skill</p>"
@@ -315,7 +315,7 @@
       }
     },
     "qET2wCGGdy3z18Gc": {
-      "name": "Firearms (Artillery)",
+      "name": "사격 (포격)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -323,7 +323,7 @@
       }
     },
     "VwGWZ2LBOwtMaw08": {
-      "name": "Firearms (Bow)",
+      "name": "사격 (활)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -331,7 +331,7 @@
       }
     },
     "35dvJDsrY8JipXRU": {
-      "name": "Firearms (Flamethrower)",
+      "name": "사격 (화염방사기)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -339,7 +339,7 @@
       }
     },
     "KmDGtn7ukUFVb265": {
-      "name": "Firearms (Handgun)",
+      "name": "사격 (권총)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -347,7 +347,7 @@
       }
     },
     "23vdyJDDfjyneH3I": {
-      "name": "Firearms (Heavy Weapons)",
+      "name": "사격 (중화기)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -355,7 +355,7 @@
       }
     },
     "QcomAOgmOS5g3dsh": {
-      "name": "Firearms (Machine Gun)",
+      "name": "사격 (기관총)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -363,7 +363,7 @@
       }
     },
     "m2pYjKk4Gk3FcEBL": {
-      "name": "Firearms (Rifle/Shotgun)",
+      "name": "사격 (라이플/산탄총)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -371,7 +371,7 @@
       }
     },
     "gRUXG91zIJXOLye1": {
-      "name": "Firearms (Submachine Gun)",
+      "name": "사격 (기관단총)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -379,7 +379,7 @@
       }
     },
     "nZ8rdL4PLb7A7f5B": {
-      "name": "First Aid",
+      "name": "응급처치",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -387,7 +387,7 @@
       }
     },
     "SflwB1bbjaQebiPQ": {
-      "name": "Gambling",
+      "name": "도박",
       "system": {
         "description": {
           "value": "<p>See the Down Darker Trails Rulebook</p>"
@@ -395,7 +395,7 @@
       }
     },
     "URo2NSSJSNdvOqXU": {
-      "name": "History",
+      "name": "역사",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -403,7 +403,7 @@
       }
     },
     "mEblnQjptKvKCeIg": {
-      "name": "Hypnosis",
+      "name": "최면술",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -411,7 +411,7 @@
       }
     },
     "hDr4eUbS398oniTa": {
-      "name": "Intimidate",
+      "name": "위협",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -419,7 +419,7 @@
       }
     },
     "c5utlFbDM7J8TA8b": {
-      "name": "Jump",
+      "name": "도약",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -427,7 +427,7 @@
       }
     },
     "Yu3Xk8kZBlz0G82y": {
-      "name": "Language (Any)",
+      "name": "언어 (Any)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -435,7 +435,7 @@
       }
     },
     "rhJ1Q9OB3uTUZmjD": {
-      "name": "Language (Own)",
+      "name": "언어 (모국어)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -443,7 +443,7 @@
       }
     },
     "64hnBZNC8FM7oTkg": {
-      "name": "Law",
+      "name": "법률",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -451,7 +451,7 @@
       }
     },
     "BcWHh8EhmyKj7bNk": {
-      "name": "Library Use",
+      "name": "자료 조사",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -459,7 +459,7 @@
       }
     },
     "MoAB0NRNlpEc2qWr": {
-      "name": "Listen",
+      "name": "듣기",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -467,7 +467,7 @@
       }
     },
     "MRbFH52Zh9TzhLBh": {
-      "name": "Locksmith",
+      "name": "열쇠공",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -475,7 +475,7 @@
       }
     },
     "rCJKGay6D0ucqgeg": {
-      "name": "Lore (Any)",
+      "name": "비밀 지식 (Any)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -483,7 +483,7 @@
       }
     },
     "0qCTuRFUCACSEsWj": {
-      "name": "Mechanical Repair",
+      "name": "기계 수리",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -491,7 +491,7 @@
       }
     },
     "Xmg7oAy70DKpv4kq": {
-      "name": "Medicine",
+      "name": "의료",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -499,7 +499,7 @@
       }
     },
     "jTcu6Ni2ek7Yz5q3": {
-      "name": "Natural World",
+      "name": "자연",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -507,7 +507,7 @@
       }
     },
     "1c3fdvpQtvZf5YXK": {
-      "name": "Navigate",
+      "name": "항법",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -515,7 +515,7 @@
       }
     },
     "6pSfZVS68jSHxa5T": {
-      "name": "Occult",
+      "name": "오컬트",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -523,7 +523,7 @@
       }
     },
     "cuExWy1130KUwuWz": {
-      "name": "Operate Heavy Machinery",
+      "name": "중장비 조작",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -531,7 +531,7 @@
       }
     },
     "uMzSNURmZqjxr7mU": {
-      "name": "Persuade",
+      "name": "설득",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -539,7 +539,7 @@
       }
     },
     "uQsVn8K6XRXQmtaI": {
-      "name": "Pilot (Any)",
+      "name": "조종 (Any)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -547,7 +547,7 @@
       }
     },
     "rXBU2GofiO2qOsGv": {
-      "name": "Psychoanalysis",
+      "name": "정신분석",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -555,7 +555,7 @@
       }
     },
     "MFR4eR79niGaLfph": {
-      "name": "Psychology",
+      "name": "심리학",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -563,7 +563,7 @@
       }
     },
     "SL2OorS0Xx6ty02A": {
-      "name": "Read Lips",
+      "name": "독순술",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -571,7 +571,7 @@
       }
     },
     "o7TdzbuSP7ticONf": {
-      "name": "Ride",
+      "name": "승마",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -579,7 +579,7 @@
       }
     },
     "EMA6uEtQBgJtBcPl": {
-      "name": "Rope Use",
+      "name": "밧줄 쓰기",
       "system": {
         "description": {
           "value": "<p>See the Down Darker Trails Rulebook</p>"
@@ -587,7 +587,7 @@
       }
     },
     "KvZuYcg3AmVrwKi2": {
-      "name": "Science (Any)",
+      "name": "과학 (Any)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -595,7 +595,7 @@
       }
     },
     "hhvqA2BOljk1FHVg": {
-      "name": "Science (Astronomy)",
+      "name": "과학 (천문학)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -603,7 +603,7 @@
       }
     },
     "IBSDR6U4dE1uejVp": {
-      "name": "Science (Biology)",
+      "name": "과학 (생물학)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -611,7 +611,7 @@
       }
     },
     "ShPoibiLsd07AtZv": {
-      "name": "Science (Botany)",
+      "name": "과학 (식물학)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -619,7 +619,7 @@
       }
     },
     "8twBT7nbyh5dEp3J": {
-      "name": "Science (Chemistry)",
+      "name": "과학 (화학)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -627,7 +627,7 @@
       }
     },
     "UASTWOvgCYi8G1QQ": {
-      "name": "Science (Cryptography)",
+      "name": "과학 (암호학)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -635,7 +635,7 @@
       }
     },
     "9zy7PLmTLXknFce4": {
-      "name": "Science (Engineering)",
+      "name": "과학 (공학)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -643,7 +643,7 @@
       }
     },
     "Nw5tSvi2Knxlqmg1": {
-      "name": "Science (Forensics)",
+      "name": "과학 (수사과학)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -651,7 +651,7 @@
       }
     },
     "QwaL3UC3Gvjd3hmF": {
-      "name": "Science (Geology)",
+      "name": "과학 (지질학)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -659,7 +659,7 @@
       }
     },
     "TwYYqLHe1PXnOCDF": {
-      "name": "Science (Mathematics)",
+      "name": "과학 (수학)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -667,7 +667,7 @@
       }
     },
     "w7hWVU14syjweIH2": {
-      "name": "Science (Meteorology)",
+      "name": "과학 (기상학)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -675,7 +675,7 @@
       }
     },
     "V9ulAwDyLVqqQ0su": {
-      "name": "Science (Pharmacy)",
+      "name": "과학 (약학)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -683,7 +683,7 @@
       }
     },
     "Dh6sHWep0qKQmi3I": {
-      "name": "Science (Physics)",
+      "name": "과학 (물리학)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -691,7 +691,7 @@
       }
     },
     "0rlp7EuZDzQGjIYf": {
-      "name": "Science (Zoology)",
+      "name": "과학 (동물학)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -699,7 +699,7 @@
       }
     },
     "KKFNX5M4LtEtiuxs": {
-      "name": "Sleight of Hand",
+      "name": "손놀림",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -707,7 +707,7 @@
       }
     },
     "nHaWNwtW3Lg0sqYJ": {
-      "name": "Spot Hidden",
+      "name": "관찰력",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -715,7 +715,7 @@
       }
     },
     "DcV524K0jNfjDEZC": {
-      "name": "Stealth",
+      "name": "은밀행동",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -723,7 +723,7 @@
       }
     },
     "X99v5MtRlfTNjL3B": {
-      "name": "Survival (Any)",
+      "name": "생존술 (Any)",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -731,7 +731,7 @@
       }
     },
     "1zSIeY0eat2AxQok": {
-      "name": "Swim",
+      "name": "수영",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -739,7 +739,7 @@
       }
     },
     "AcUIbZFhfoXqQP2m": {
-      "name": "Track",
+      "name": "추적",
       "system": {
         "description": {
           "value": "<p>크툴루의 부름 수호자 룰북 참조</p>"
@@ -747,7 +747,7 @@
       }
     },
     "HzOGu2yLcL9obry3": {
-      "name": "Trap",
+      "name": "함정",
       "system": {
         "description": {
           "value": "<p>See the Down Darker Trails Rulebook</p>"
