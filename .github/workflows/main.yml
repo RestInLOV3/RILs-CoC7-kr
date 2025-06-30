@@ -121,7 +121,7 @@ jobs:
             README.md                            \
             LICENSE                              \
             templates                            \
-            compendiums/                         \
+            compendium/                         \
             scripts/                             \
             styles/                              \
             packs/                               \
